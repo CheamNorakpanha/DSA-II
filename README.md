@@ -1,2 +1,2 @@
 # DSA-II
-An open source code of Data Strucutre Algorithm II (DSA II) for ITE students
+An open source code of DSA-II lab for ITE students
